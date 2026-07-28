@@ -69,6 +69,10 @@ strong{
     color: rgb(235, 164, 32);
 }
 
+h2,h3{
+    padding: 10px;
+}
+
 section div{
     flex: 1;
     margin: 2%;
