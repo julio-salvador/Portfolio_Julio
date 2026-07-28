@@ -70,7 +70,7 @@ strong{
     color: rgb(235, 164, 32);
 }
 
-section div{
+section > div{
     flex: 1;
     margin: 2%;
 }
