@@ -45,7 +45,7 @@ hr{
 
 main{
     background-color: rgb(252, 162, 52);
-    color: blueviolet;
+    color: rgb(0, 0, 0);
     flex: 1;
 }
 
@@ -66,7 +66,7 @@ html, body{
 }
 
 strong{
-    color: rgb(186, 226, 43);
+    color: rgb(235, 164, 32);
 }
 
 h2,h3{
@@ -79,16 +79,16 @@ section div{
 }
 
 a:hover{
-    color:aquamarine
+    color:rgb(235, 164, 32);
 }
 
 a:visited{
-    color: blueviolet;
+    color: rgb(235, 164, 32);
 }
 
 footer{
     margin-top: auto;
     text-align: center;
     width: 100%;
-    background-color: blue;
+    background-color: rgb(247, 170, 55);
 }
