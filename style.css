@@ -69,9 +69,9 @@ strong{
     color: rgb(235, 164, 32);
 }
 
-h2,h3{
+/*h2,h3{
     padding: 10px;
-}
+}*/
 
 section div{
     flex: 1;
@@ -98,5 +98,18 @@ footer{
         flex-direction: column;
         margin: 3%;
         gap: 20px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 1024){
+    section{
+        margin: 3%;
+        gap: 5%;
+    }
+}
+
+@media (min-width: 1025px){
+    section{
+        margin: 0 5%;
     }
 }
